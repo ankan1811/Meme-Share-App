@@ -63,6 +63,8 @@ An android app which lets you share memes among your friends. The memes are fetc
 
 
 </br>
+
+
 #### The receiver of the note can even paste the url of the meme which will take you out to the actual meme 
 
 </br>
