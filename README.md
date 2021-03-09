@@ -1,4 +1,4 @@
-# Meme-Share-App
+# Meme-Share-App by Ankan Pal
 An android app which lets you share memes among your friends. The memes are fetched from reddit live. You can share that through any other app to your friends.
 
 
@@ -10,14 +10,9 @@ An android app which lets you share memes among your friends. The memes are fetc
 ![](images/Screenshot%20(504).png)
 
 
-
 </br>
 
-
-
-
 ### ProgressBar:
-
 
 
 ![](images/Screenshot%20(519).png)
@@ -43,7 +38,7 @@ An android app which lets you share memes among your friends. The memes are fetc
 ![](images/Screenshot%20(522).png)
 </br>
 
-### Now you can paste the complete note (with link of meme) on any app in your andrtoid device
+### Now you can paste the complete note (with link of meme) on any app in your andrtoid device.
 </br>
 
 ![](images/Screenshot%20(523).png)
@@ -52,7 +47,7 @@ An android app which lets you share memes among your friends. The memes are fetc
 </br>
 
 
-### The receiver of the note can even paste the url of the meme which will take you out to the actual meme 
+### The receiver of the note can even paste the url of the meme which will take you out to the actual meme .
 
 </br>
 
