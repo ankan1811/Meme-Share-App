@@ -1,4 +1,4 @@
-package com.example.sharememes
+package com.example.sharememes //copied from codelab
 
 import android.content.Context
 import com.android.volley.Request
