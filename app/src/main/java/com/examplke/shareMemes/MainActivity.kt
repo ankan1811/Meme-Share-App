@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         nextButton.isEnabled = false
         shareButton.isEnabled = false
         progressBar.visibility = View.VISIBLE //progress bar will be visible when function is being called
-        //We will get the response very soon but glide is th4e one taking the time
+        //We will get the response very soon but glide is the one taking the time
         val url = "https://meme-api.herokuapp.com/gimme"
 
         // Request a string response from the provided URL.
