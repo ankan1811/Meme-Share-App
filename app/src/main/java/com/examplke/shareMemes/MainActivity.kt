@@ -1,5 +1,14 @@
-package com.example.sharememes
+//1.	We put all the requests in a queue and the request which we gat at first that will be served i.e. we will get the response of the http request. Then The next request will go to the queue and so on.
+//2.	So as in the picture we make the queue first Valley.newRequestQueue(This activity’s context)
+//3.	PUT THE CORRESPONDING API link.
+//4.	Now request for a string response. It will do a GET request at that url .
+//5.	If the request is successful it will go to listener else errorListener(internet error or API is kharap)
+//6.	We just get the data from backend here
+//7.	Finally we add the string request to the queue
+//8.	As soon as request enters the queue volley will do its work It will take out the request, handle it.
+//9.	Log.d just logs the output (used for debugging).It will come in logcat.
 
+package com.example.sharememes
 import android.content.Intent
 import android.graphics.drawable.Drawable
 import android.os.Bundle
